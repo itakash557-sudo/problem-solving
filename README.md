@@ -1,2 +1,2 @@
 # problem-solving
-solving a problem using python
+solving a problem using Java program 
